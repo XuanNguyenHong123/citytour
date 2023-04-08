@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color:rgba(247,247,247,1.00) !important;
+}
+
+#panner{
+	height: 80vh;
+}
+.spacing{
+	height: 100px;
+}
+#partner{
+	background-color: #c9e8e2;
+	align-items: baseline;
+}
+.collapse ul li{
+	padding: 20px;
+}
+
+#watch .btn{
+background-color: #f7c7b2;
+}
+#run .card1{
+	background-color: #f7e1d4;
+}
+#run .card2{
+	background-color: #d6ecfa;
+}
+#run .card3{
+	background-color: #c9e8e2;
+}
+footer{
+	background-color:#ECECEC;
+}
+footer ul li{
+	font-size: 14px;
+}
+footer{
+	font-size: 12px;
+}
+
+
+
